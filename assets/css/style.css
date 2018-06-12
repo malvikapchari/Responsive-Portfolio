@@ -249,3 +249,198 @@ img {
         top: 100px;
         text-align: center;
       }
+
+      textarea {
+        font: 16px sans-serif #ccc;
+        width: 800px;
+        padding: 5px;
+        height: 200px;
+    }
+
+      @media screen and (max-width: 980px) {
+
+        .aboutMe {
+          
+          width: 800px;
+          
+          margin:50px auto;
+
+          margin-bottom: 150px;
+          
+          }
+
+       .contactbody {
+
+        width: 800px;
+
+        margin: 50px auto;
+
+        margin-bottom: 150px;
+
+            }
+       textarea { 
+
+        width: 700px;
+       }
+
+       .portfolioMain {
+       width: 800px;
+       margin: 50px auto;
+       margin-bottom: 150px;
+        }
+        
+      }
+ @media screen and (max-width: 768px) {
+ 
+  .aboutMe {
+          
+    width: 700px;
+
+    margin: 30px auto 70px auto;
+
+    margin-bottom: 200px;
+    
+    }
+
+  .contactbody {
+
+    width: 700px;
+
+    margin: 30px auto 70px auto;
+
+    margin-bottom: 200px;
+
+      }
+   textarea { 
+
+  width: 600px;
+ }
+
+ .portfolioMain {
+   width: 700px;
+
+    margin: 30px auto 70px auto;
+
+    margin-bottom: 200px;
+  }
+
+ }
+
+ @media screen and (max-width: 640px) {
+ 
+  .aboutMe {
+          
+    width: 550px;
+
+    margin: 40px 20px;
+
+    margin-bottom: 250px;
+    
+    }
+
+  .contactbody {
+
+    width: 600px;
+
+    margin: 40px 20px;
+
+    margin-bottom: 250px;
+
+      }
+   textarea { 
+
+  width: 500px;
+ }
+
+ .portfolioMain {
+   width: 600px;
+
+   height:2500px;
+
+    margin: 40px 20px;
+
+    margin-bottom: 250px;
+  }
+
+  #left1 {
+    width: 440px;
+    height: 380px;
+    
+  }
+  #left2 {
+    width: 440px;
+    height: 380px;
+  
+  }
+
+  #left3 {
+    width: 440px;
+    height: 380px;
+    
+  }
+
+  #right1 {
+    width: 440px;
+    height: 380px;
+    
+  }
+
+  #right2 {
+    width: 440px;
+    height: 380px;
+  
+  }
+
+  .textvalue {
+   
+    top: 250px;
+    
+  }
+
+
+ }
+     /*  @media screen and (max-width: 320px) {
+        body {
+          background-color: #333;
+        }
+      
+        .wrapper {
+          /* Box-model */
+        /*  width: 100%;
+          padding: 20px;
+        }
+      
+        #main-content,
+        #sidebar {
+          width: 100%;
+        }
+      
+        #sidebar {
+          margin-top: 40px;
+        }
+      }
+      
+      /* Width at 168px and below */
+    /*  @media screen and (max-width: 168px) {
+        body {
+          background-color: #333;
+        }
+      
+        .wrapper {
+          /* Box-model */
+         /* width: 100%;
+          padding: 20px;
+        }
+      
+        #main-content,
+        #sidebar {
+          width: 100%;
+        }
+      
+        #sidebar {
+          margin-top: 40px;
+        }
+      }
+      */
+      
+   
